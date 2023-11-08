@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xoreactjs-tic-or-toe-game%20/static/css/main.244717e0.css",
-    "main.js": "/xoreactjs-tic-or-toe-game%20/static/js/main.846ddada.js",
-    "static/js/787.26dc4c50.chunk.js": "/xoreactjs-tic-or-toe-game%20/static/js/787.26dc4c50.chunk.js",
-    "index.html": "/xoreactjs-tic-or-toe-game%20/index.html",
-    "main.244717e0.css.map": "/xoreactjs-tic-or-toe-game%20/static/css/main.244717e0.css.map",
-    "main.846ddada.js.map": "/xoreactjs-tic-or-toe-game%20/static/js/main.846ddada.js.map",
-    "787.26dc4c50.chunk.js.map": "/xoreactjs-tic-or-toe-game%20/static/js/787.26dc4c50.chunk.js.map"
+    "main.css": "/xoreactjs-tic-or-toe-game/static/css/main.244717e0.css",
+    "main.js": "/xoreactjs-tic-or-toe-game/static/js/main.0728dc37.js",
+    "static/js/787.26dc4c50.chunk.js": "/xoreactjs-tic-or-toe-game/static/js/787.26dc4c50.chunk.js",
+    "index.html": "/xoreactjs-tic-or-toe-game/index.html",
+    "main.244717e0.css.map": "/xoreactjs-tic-or-toe-game/static/css/main.244717e0.css.map",
+    "main.0728dc37.js.map": "/xoreactjs-tic-or-toe-game/static/js/main.0728dc37.js.map",
+    "787.26dc4c50.chunk.js.map": "/xoreactjs-tic-or-toe-game/static/js/787.26dc4c50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.244717e0.css",
-    "static/js/main.846ddada.js"
+    "static/js/main.0728dc37.js"
   ]
 }

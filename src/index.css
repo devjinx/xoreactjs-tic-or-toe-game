@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Add media queries for mobile devices */
+@media (max-width: 767px) {
+    /* Adjust styles for mobile screens here */
+    body {
+        font-size: 16px; /* Example font size adjustment for smaller screens */
+    }
+}
